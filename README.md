@@ -7,3 +7,9 @@ If you have any resources or want to help us out in the project then come to dis
 Contact either me, Karthik (KPBAN) or Deep(Deepchan) on discord so that we can talk on how to make this project even better. 
 
 That's all. Thank you folks. Hope this helps you out.
+
+Some links to check out:
+
+MIT Library portal: http://1.186.28.31/
+
+Slcm website: https://slcm.manipal.edu/
