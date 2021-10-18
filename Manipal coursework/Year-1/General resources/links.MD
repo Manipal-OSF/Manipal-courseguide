@@ -15,3 +15,7 @@ https://drive.google.com/file/d/1nErm_OrjK5jMLdRFKXbBSzTiQloASZ2B/view
 https://drive.google.com/drive/folders/1sN-L1xmrD5so_UYMBb6LQttRjZAd9UVe
 
 (Chem cycle repository) {Contains pdfs, course outlines}
+
+https://drive.google.com/drive/folders/1-9ELWJqBgzwHQy0yMWlnoeC_T-c7MS4S
+
+(Freshers gdrive link, chem and physics cycle)
