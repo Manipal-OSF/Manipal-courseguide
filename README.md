@@ -13,3 +13,5 @@ Some links to check out:
 MIT Library portal: http://1.186.28.31/
 
 Slcm website: https://slcm.manipal.edu/
+
+do check the links.txt file in general resources. It contains important gdrive links with resources for physics and chemistry cycles.
