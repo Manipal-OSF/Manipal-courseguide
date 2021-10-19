@@ -1,0 +1,1 @@
+* [Robert L. Boylestad, Louis Nashelsky - Electronic Devices and Circuit Theory (11th Edition)-Prentice Hall (2012)](https://learnermanipal-my.sharepoint.com/:b:/g/personal/lance_barreto_learner_manipal_edu/EXZ8GlEqHbtNsVPcmtoK4qsBn68-_ZjfqN-DBzjtHZlZSg?e=4meXrw)
