@@ -1,0 +1,3 @@
+https://learnermanipal-my.sharepoint.com/personal/aditya_singh34_learner_manipal_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Faditya%5Fsingh34%5Flearner%5Fmanipal%5Fedu%2FDocuments%2FBooks%2Fengineering%2Dmechanics%2Dstatics%2D7th%2Dedition%2Dj%2Dl%2Dmeriam%2Dl%2Dg%2Dkraige%2Epdf&parent=%2Fpersonal%2Faditya%5Fsingh34%5Flearner%5Fmanipal%5Fedu%2FDocuments%2FBooks&originalPath=aHR0cHM6Ly9sZWFybmVybWFuaXBhbC1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9hZGl0eWFfc2luZ2gzNF9sZWFybmVyX21hbmlwYWxfZWR1L0VkbWtlNWtQYkN4R3VURXczM3NsRnBBQkF1Y0NjeGZzSGZ6MlBuQmlPcmhEalE%5FcnRpbWU9U0tjdnhOV1cyVWc
+
+(Mechanics of solids reference book)
