@@ -1,0 +1,1 @@
+ * [MECHANICS_OF_SOLIDS_by_SS_Bhavikatti](https://learnermanipal-my.sharepoint.com/:b:/g/personal/lance_barreto_learner_manipal_edu/Eb1GTzf5rNFLsMDUw6WYCe0BGGNOypRZLKgsEUcV_rS11w?e=XnYVO1)
