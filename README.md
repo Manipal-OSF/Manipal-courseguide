@@ -18,4 +18,4 @@ Youtube channel made by manipal students covering most firs year concepts taught
 
 https://www.youtube.com/channel/UCp2la-TDdP2WJDm8jgJPFgQ
 
-do check the links.txt file in general resources. It contains important gdrive links with resources for physics and chemistry cycles.
+do check the Readme.md file in general resources. It contains important gdrive links with resources for physics and chemistry cycles.
